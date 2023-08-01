@@ -1,1 +1,3 @@
 on va tester ce qu'on a appris aujord'hui
+maintenant on va continuer avant de partir creer un autre repertoire sur 
+github
